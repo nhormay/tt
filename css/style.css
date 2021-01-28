@@ -1,0 +1,213 @@
+.top-container {
+
+height: 500px;
+margin: 0px;
+
+}
+
+.middle-container {
+  margin: 100px ;
+}
+
+
+ .bottom-container {
+   background-color: lightyellow;
+
+ }
+
+ .skills-my{
+     border-collapse: separate;
+     border-spacing: 2px;
+ }
+
+
+ .face {
+   height: auto;
+   width: 350px;
+   position: relative;
+   margin-top: 800px;
+ }
+
+ .www {
+   width: 65%;
+ }
+
+p {
+  line-height: 2;
+    margin-bottom: auto;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    color: black;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: gold;
+    border-width: 10px;
+    width: 9%;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+}
+
+
+h2 {
+  color: white;
+  padding-bottom: 15px;
+  font-family: cursive;
+}
+
+h1 {
+  color: white;
+  font-family: cursive;
+}
+
+h3 {
+  color: white;
+  font-family: cursive;
+}
+
+
+h4{
+  color:white;
+  font-family: cursive;
+}
+
+hello:hover{
+  color: white;
+}
+h1 {
+  line-height: 2;
+  font-size: 50px;
+  font-style:
+}
+
+
+
+body {
+  text-align: center;
+  font-family: 'Merriweather Sans' ,verdana;
+  color:pink;
+  margin: 0;
+}
+
+
+div {
+  background-color:  lightpink;
+}
+
+.skill-m {
+height: 12px;
+width: 120px;
+padding-bottom: 50px;
+}
+
+
+.skill-row {
+  width: 25%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.wrk {
+  line-height: 2;
+    margin-bottom: auto;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    color: black;
+
+
+}
+
+
+
+
+.mania {
+  width: 25%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.since{
+  width: 25%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.ayy{
+  width: 25%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+ .s{
+  position: relative;
+  margin-right: 100%;
+  width:  30%;
+  margin: 10px;
+  height: 20%;
+}
+
+
+.sk {
+  position: relative;
+  margin-right: 100%;
+  width:  40%;
+  margin: 10px;
+  height: 50%;
+}
+.nor {
+
+  padding-top: 50px;
+  width: 1100px;
+  opacity: 0.6;
+  bottom: 450px;
+}
+
+.cl{
+  opacity: 0.5;
+}
+
+
+
+.ios{
+  width: 30%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+ .hello{
+   color: yellow;
+ }
+
+ .imnor{
+   color: white;
+   font-style:  italic;
+ }
+ .apro{
+   color: white;
+ }
+
+.copy{
+  color: brown;
+}
+
+
+.Contact-me {
+  background-color: white;
+}
+
+.dot {
+  text-align: center;
+}
+
+.get {
+  color: black;
+  font-style:  italic;
+}
